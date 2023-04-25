@@ -88,3 +88,25 @@
   - **Database:** covid_db
   - **pasword:** admin
   - Click on **Create**
+
+## References
+
+Creating Azure Free Account - https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos?view=azure-cli-latest
+
+Free Account - https://azure.microsoft.com/en-gb/free/
+
+Students Free Account - https://azure.microsoft.com/en-gb/free/students/
+
+Azure Portal - https://azure.microsoft.com/en-gb/free/students/
+
+Creating Azure Data Factory- https://docs.microsoft.com/en-gb/azure/data-factory/quickstart-create-data-factory-portal
+
+Creating Azure Storage Account - https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal
+
+Installing Azure Storage Explorer - https://azure.microsoft.com/en-us/products/storage/storage-explorer
+
+Creating Azure Data Lake Gen2 - https://docs.microsoft.com/en-us/azure/storage/blobs/create-data-lake-storage-account
+
+Creating Azure SQL Database - https://docs.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart?tabs=azure-portal
+
+Installing Azure Data Studio - https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16\
